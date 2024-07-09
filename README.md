@@ -1,3 +1,5 @@
+Практична робота №е Хомин Михайло
+
 #include <stdio.h>
 #include <math.h>
 
